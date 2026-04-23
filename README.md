@@ -9,3 +9,4 @@ Converts stream of audio into a spectrogram, uses a CNN to detect wavelength pat
 Identifies Guitar chords through a command-line interface.
 Currently identifies B, C, Cm, D, and G
 
+Demo: https://youtu.be/rjrxVnWTw3s
