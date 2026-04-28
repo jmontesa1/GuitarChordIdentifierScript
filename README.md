@@ -1,4 +1,4 @@
-Guitar Chord Recognizer Script
+Guitar Chord Identifier Script
 
 A Pytho script that streams audio from local device in real-time.
 
