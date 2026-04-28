@@ -7,6 +7,5 @@ Can use a microphone or stereo mix.
 Converts stream of audio into a spectrogram, uses a CNN to detect wavelength patterns.
 
 Identifies Guitar chords through a command-line interface.
-Currently identifies B, C, Cm, D, and G
 
 Demo: https://youtu.be/rjrxVnWTw3s
